@@ -1,0 +1,51 @@
+.Box {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  width: auto;
+  height: auto;
+  background: linear-gradient( to right, #000, #860d0d);
+}
+
+.show-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.TV-sow {
+  color: #fff;
+}
+
+.show-item {
+  width: 350px;
+  margin: 20px;
+  padding: 10px;
+  background: linear-gradient( to left, #000, #860d0d);
+  border-radius: 8px;
+}
+
+.TV_iii {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.hih {
+  color: #fff;
+}
+
+.btn {
+  width: 350px;
+  height: 35px;
+  margin-top: 15px;
+  background-color: rgb(255, 38, 0);
+  border: none;
+  color: #000;
+  border-radius: 8px;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+}
+
+
